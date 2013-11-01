@@ -1,0 +1,15 @@
+ex06
+
+9/10
+
+olga.text
+->
+olga.txt
+
+(-1)
+EstUnPalindrome
+->
+estUnPalindrome
+DateCalculate
+->
+dateCalculate
